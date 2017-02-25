@@ -1,4 +1,4 @@
 # hello-world
 First bit of stuff on github
 
-Using GitHUb as part of online CS50
+Using GitHub as part of CS50 online course
